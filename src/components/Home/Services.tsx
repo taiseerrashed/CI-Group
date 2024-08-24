@@ -12,7 +12,7 @@ const Services = () => {
             <h2 className="leading-[40px] md:leading-[50px] lg:leading-[60px] text-[24px] md:text-[32px] lg:text-[40px] font-[400] mb-4">
                 We have the power to make your vision at reality by
             </h2>
-            <div className="flex flex-col lg:flex-row justify-between text-left text-[24px] md:text-[28px] lg:text-[35px] font-[400] leading-[40px] md:leading-[50px] lg:leading-[60px] p-4 gap-6">
+            <div className="flex flex-col lg:flex-row justify-between text-left text-[24px] md:text-[28px] lg:text-[35px] font-[400] leading-[40px] md:leading-[50px] lg:leading-[60px] lg:p-4 gap-6">
                 <div >
                     <p>Efficient solutions.</p>
                     <p>Innovative designs.</p>
