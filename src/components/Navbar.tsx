@@ -59,7 +59,7 @@ const Navbar = () => {
         </div>
         
         <div className="lg:hidden">
-            <button onClick={toggleMenu} className="text-mainColor text-2xl">
+            <button onClick={toggleMenu} className={`${textColor} text-2xl`}>
                 <i className={`bx ${toggle ? 'bx-x' : 'bx-menu'}`}></i>
             </button>
         </div>
